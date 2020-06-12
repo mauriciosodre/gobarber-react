@@ -1,0 +1,22 @@
+[33mc380d82d0ff2cfd75d8e0c543a100bb373648b6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Animando Toasts
+[33mc0122aad1661e8bf9df624ada29b02c30911ebac[m Adicionando e removendo Toasts
+[33m11b5eeab1a8cdac887de6ecf28af67979e2c200d[m Criando hook de Toast
+[33mfdbba7b8d9a15947ee5232fb193ab44d6e3af614[m Estrutura de Toasts
+[33mcc0190654ba36430a1c6b259a6d321872e2f5abe[m Logout da aplicação
+[33m3443099f127bfab72e77fe5ed48ce903b582359c[m mantedo user no localStorage e criando hook useAuth
+[33mef0e0b41af1af00b30bd4da2dbdf8bc816c0970c[m Login pelo Contexto
+[33mcbbededb34d7c90614314151c447a53f9ad83b91[m API de Contexto
+[33ma8cfffe16f7df50ca26565565267ee70cfb0aa8f[m Login validation
+[33m544fded8fe401ad79bc98fdbd524cd43fab848ca[m tooltip
+[33mfc23ff7fdbf131f012fd069afa38c21369727394[m getValidationErrors
+[33m75041c5d52005abb7025337d09bce8febae62963[m yup validation
+[33m3a29b218d04c9ba1908b1bad370df6692b8dba82[m usecallback
+[33meab9c6001ba96860153a34827901a4f2f86cc495[m unform inputs
+[33m6264d65849191c1a608ffe9b5f581630b5fd918f[m signup page
+[33m851bd9f299b601e1dda29431705e59afd48b9c7b[m signin page
+[33m50835a0936faca96ed7be63943958d0fbdc1025d[m globalstyle
+[33m7fde1983cc6f9817495e57dd619f39559ff97ed6[m Clean code
+[33m094acd46524c7645d10724e8b66368d5b960b905[m eslint react fix
+[33mbb515dd91fef084d619f2dc511e1319660a117f4[m vscode devdependencies
+[33mce295f874c60db5503405e57902a7ebd403cb492[m vscode config
+[33m0717f4ea56ffe5d595f446d1e4b3fedcd95222bd[m Initialize project using Create React App
